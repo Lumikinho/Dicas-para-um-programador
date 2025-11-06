@@ -37,7 +37,8 @@
     - Para verificar se você esta na branch certa digite ``` git branch ``` no terminal
     
     2.3,5 Caso necessario Adicione um arquivo .gitignore e dentro dele coloque todos os arquivos e pastas que NÃO irão ser adicionados ao git!
-             ![gitignore](assets/gitignore.png)
+
+      ![gitignore](assets/gitignore.png)
    
     2.4 Agora Adicione os arquivos para ir ao repositorio e faça um commit
         ```
